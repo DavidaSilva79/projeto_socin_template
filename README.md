@@ -3,7 +3,7 @@
 </h1>
 
 
-## 💻 Sobre o projeto
+## - 💻 Sobre o projeto
 
 O e-conect é o software de PDV da Socin uma Solução para frente de loja preparada para atender as necessidades varejistas dos mais diferentes portes.
 
