@@ -5,11 +5,9 @@
 Nesta sessão é possível adicionar um logo ou um banner do projeto no README.md , opcionalmente é possível substituir o titulo do projeto por esta sessão, no entanto a descrição é imprescindível para o bom entendimento do conteúdo do projeto.
 
 <h1 align="center">
-    <img alt="Econect" title="#Econect" src="econect.png" />
     <p align="center">
-  <img src="https://anyserver.com/image.png" width="750px" height="300px"/></p>
-    <img src="https://static.wixstatic.com/media/b62a2d_974c250fd60542b1b2195291096a6c91~mv2.png/v1/crop/x_124,y_197,w_2533,h_1603/fill/w_1404,h_860,al_c,q_90,usm_0.66_1.00_0.01/telas_econect.webp/></p>
-    "
+<img src="https://static.wixstatic.com/media/b62a2d_974c250fd60542b1b2195291096a6c91~mv2.png" width="750px" height="400px"/></p>
+    
 </h1>
 
 
