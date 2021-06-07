@@ -12,20 +12,18 @@ Nesta sessão é possível adicionar um logo ou um banner do projeto no README.m
 
 
 ## 💻 Título e Descrição
-- Status: Opcional
+- Status: Obrigatório
+Esta sessão tem como conteúdo o Titulo do Projeto e uma breve descrição do mesmo.
+## ✅ Badges
 
-Nesta sessão é possível adicionar um logo ou um banner do projeto no README.md , opcionalmente é possível substituir o titulo do projeto por esta sessão, no entanto a descrição é imprescindível para o bom entendimento do conteúdo do projeto.
+É uma questão de gosto pessoal e comunicação. As badges são úteis para indicar o status do projeto: você pode colocar a versão dele, link para licença, quantidade de issues, status da build, status dos testes.  Vale muito a pena colocar.
+
+As badges podem ficar no topo antes do título ou abaixo da descrição.
+
+Use o site shields.io para gerar suas badges.
 
 
 ## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- Java
-- Spring
-- MySQL
-
-## 🛠 Badges
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
