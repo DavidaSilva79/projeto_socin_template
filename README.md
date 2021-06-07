@@ -1,9 +1,15 @@
+
+## 💻 Logo ou Banner
+- Status: Opcional
+
 <h1 align="center">
     <img alt="Econect" title="#Econect" src="econect.png" />
 </h1>
 
 
-## - 💻 Sobre o projeto
+## 💻 Título e Descrição
+- Status: Opcional
+
 
 O e-conect é o software de PDV da Socin uma Solução para frente de loja preparada para atender as necessidades varejistas dos mais diferentes portes.
 
@@ -15,6 +21,14 @@ Além dos módulos naturais existentes em uma solução de frente de caixa, o e-
 - Baixo custo de investimento e manutenção.
 
 ## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Java
+- Spring
+- MySQL
+
+## 🛠 Badges
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
