@@ -13,6 +13,7 @@ Nesta sessão é possível adicionar um logo ou um banner do projeto no README.m
 
 ## 💻 Título e Descrição
 - Status: Obrigatório
+
 Esta sessão tem como conteúdo o Titulo do Projeto e uma breve descrição do mesmo.
 
 
