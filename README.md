@@ -1,14 +1,15 @@
 
-## 💻 Logo ou Banner
+## 💻 Logo ou Banner 
+
 - Status: Opcional
 
 Nesta sessão é possível adicionar um logo ou um banner do projeto no README.md , opcionalmente é possível substituir o titulo do projeto por esta sessão, no entanto a descrição é imprescindível para o bom entendimento do conteúdo do projeto.
 
-<h1 align="center">
-    <p align="center">
+
+ <p align="center">
 <img src="https://static.wixstatic.com/media/b62a2d_974c250fd60542b1b2195291096a6c91~mv2.png" width="750px" height="400px"/></p>
     
-</h1>
+
 
 
 ## 💻 Título e Descrição
@@ -32,6 +33,7 @@ Basicamente um índice das sessões do readme onde o individuo clica em um tópi
 
 
 ## 🌠 Badges
+
 - Status: Opcional
 
 As Badges sãos brasões ou emblemas que contem um conteúdo e uma informação referente a este conteúdo, por exemplo abaixo as três primeiras badges são referentes a tecnologias de desenvolvimento onde o campo a esquerda indica a tecnologia em si ou seja o conteúdo e a direita  a versão da mesma que representa a informação referente ao conteúdo. 
@@ -68,6 +70,42 @@ Sessão que mostra o status do projeto se ele ainda se encontra em desenvolvimen
 
 🚧 Projeto em Desenvolvimento... 🚧
 
+
+## 🛠 Features
+
+- Status: Opcional
+
+Uma sessão opcional porem de grande ajuda e a das features, aqui é possível descrever quais funcionalidades do projeto estão prontas e quais estão em desenvolvimento ou não começaram a ser desenvolvidas, isso ajuda as pessoas a se situarem melhor sobre o projeto e seu desenvolvimento ate o momento.
+
+Uma opção para seria listar as features como abaixo e ir checkando o que já foi feito.
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Java
+- Spring
+- MySQL
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Java
+- Spring
+- MySQL
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Java
+- Spring
+- MySQL
 
 ## 🛠 Tecnologias
 
