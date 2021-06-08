@@ -108,7 +108,7 @@ Além disto é bom ter um editor para trabalhar com o código como Eclipse
 
 🚧 Em construção... 🚧
 
-## 🎁 Como liberar um pacote do projeto
+## 📦 Como liberar um pacote do projeto
 
 - Para liberar pacotes para o desenvolvimento do concentrador basta buildar o arquivo Econect-Concentrador/ant/build-econect.conc.xml
 - os pacotes .jar são gerados no diretório /usr/socin/econect/conc/lib
