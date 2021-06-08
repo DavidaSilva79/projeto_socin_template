@@ -60,6 +60,15 @@ As Badges podem ficar no topo antes do título ou abaixo da descrição.
 
 Use o site Shields.io para gerar suas badges.
 
+## 🛠 Status do Projeto
+
+- Status: Obrigatório
+
+Sessão que mostra o status do projeto se ele ainda se encontra em desenvolvimento ou se já foi concluído.
+
+🚧 Projeto em Desenvolvimento... 🚧
+
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
