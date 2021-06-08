@@ -16,6 +16,20 @@ Nesta sessão é possível adicionar um logo ou um banner do projeto no README.m
 
 Esta sessão tem como conteúdo o Titulo do Projeto e uma breve descrição do mesmo.
 
+## 📋 Tabela de Conteúdos
+
+- Status: Obrigatório
+
+Basicamente um índice das sessões do readme onde o individuo clica em um tópico do índice em seguida é direcionado para a sessão do topico.
+
+- [Badges](#-Badges)
+- [Building your first React Native app](#-building-your-first-react-native-app)
+- [Documentation](#-documentation)
+- [Upgrading](#-upgrading)
+- [How to Contribute](#-how-to-contribute)
+- [Code of Conduct](#code-of-conduct)
+- [License](#-license)
+
 
 ## 🔗 Badges
 - Status: Opcional
@@ -45,10 +59,6 @@ As badges são opcionais no entanto agregam valor ao readme podendo conter infor
 As Badges podem ficar no topo antes do título ou abaixo da descrição. 
 
 Use o site Shields.io para gerar suas badges.
-
-## 📋 Tabela de Conteúdos
-Basicamente um índice das sessões do readme onde o individuo clica em um tópico do índice em seguida é direcionado para a sessão do topico.
-
 
 ## 🛠 Tecnologias
 
