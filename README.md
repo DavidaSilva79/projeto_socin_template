@@ -69,7 +69,7 @@ Sessão que mostra o status do projeto se ele ainda se encontra em desenvolvimen
 🚧 Projeto em Desenvolvimento... 🚧
 
 
-## 🖥 Features
+## 💫 Features
 
 - Status: Opcional
 
@@ -81,7 +81,7 @@ Uma opção para seria listar as features como abaixo e ir checkando o que já f
 - [x] Cadastro de cliente
 - [ ] Cadastro de produtos
 
-## 💫 Demonstração da aplicação
+## 🖥 Demonstração da aplicação
 
 - Status: Opcional
 
