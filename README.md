@@ -16,7 +16,7 @@ Nesta sessão é possível adicionar um logo ou um banner do projeto no README.m
 
 Esta sessão tem como conteúdo o Titulo do Projeto e uma breve descrição do mesmo.
 
-## 📋 Tabela de Conteúdos
+## Tabela de Conteúdos
 
 - Status: Obrigatório
 
@@ -31,7 +31,7 @@ Basicamente um índice das sessões do readme onde o individuo clica em um tópi
 - [License](#-license)
 
 
-## 🔗 Badges
+## 🌠 Badges
 - Status: Opcional
 
 As Badges sãos brasões ou emblemas que contem um conteúdo e uma informação referente a este conteúdo, por exemplo abaixo as três primeiras badges são referentes a tecnologias de desenvolvimento onde o campo a esquerda indica a tecnologia em si ou seja o conteúdo e a direita  a versão da mesma que representa a informação referente ao conteúdo. 
