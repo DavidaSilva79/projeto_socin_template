@@ -1,5 +1,5 @@
 
-## 💻 Logo ou Banner 
+## :octocat: Logo ou Banner 
 
 - Status: Opcional
 
@@ -62,7 +62,7 @@ As Badges podem ficar no topo antes do título ou abaixo da descrição.
 
 Use o site Shields.io para gerar suas badges.
 
-## 🛠 Status do Projeto
+## ✅ Status do Projeto
 
 - Status: Obrigatório
 
@@ -71,7 +71,7 @@ Sessão que mostra o status do projeto se ele ainda se encontra em desenvolvimen
 🚧 Projeto em Desenvolvimento... 🚧
 
 
-## 🛠 Features
+## 🖥 Features
 
 - Status: Opcional
 
@@ -83,29 +83,11 @@ Uma opção para seria listar as features como abaixo e ir checkando o que já f
 - [x] Cadastro de cliente
 - [ ] Cadastro de produtos
 
-## 🛠 Tecnologias
+## 💫 Demonstração da aplicação
 
-As seguintes ferramentas foram usadas na construção do projeto:
+- Status: Opcional
 
-- Java
-- Spring
-- MySQL
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- Java
-- Spring
-- MySQL
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- Java
-- Spring
-- MySQL
+Nesta sessão é possível demonstrar como o projeto funciona de alguma forma, caso o projeto seja web e estiver hospedado em algum lugar pode se ter um link para o mesmo, caso seja mobile ou desktop pode se fazer uso de imagens ilustrando o funcionamento através de prints da tela.
 
 ## 🛠 Tecnologias
 
