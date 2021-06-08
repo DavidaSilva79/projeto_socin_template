@@ -24,12 +24,7 @@ Esta sessão tem como conteúdo o Titulo do Projeto e uma breve descrição do m
 Basicamente um índice das sessões do readme onde o individuo clica em um tópico do índice em seguida é direcionado para a sessão do topico.
 
 - [Badges](#-Badges)
-- [Building your first React Native app](#-building-your-first-react-native-app)
-- [Documentation](#-documentation)
-- [Upgrading](#-upgrading)
-- [How to Contribute](#-how-to-contribute)
-- [Code of Conduct](#code-of-conduct)
-- [License](#-license)
+
 
 
 ## 🌠 Badges
