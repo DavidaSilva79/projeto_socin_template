@@ -24,6 +24,9 @@ Esta sessão tem como conteúdo o Titulo do Projeto e uma breve descrição do m
 Basicamente um índice das sessões do readme onde o individuo clica em um tópico do índice em seguida é direcionado para a sessão do topico.
 
 - [Badges](#-Badges)
+- [Status do Projeto](#-Status do Projeto)
+- [Features](#-Features)
+- [Demonstração da aplicação](#-Demonstração da aplicação)
 
 
 
