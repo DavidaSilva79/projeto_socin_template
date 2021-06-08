@@ -26,6 +26,26 @@ As badges podem ficar no topo antes do título ou abaixo da descrição.
 
 Use o site shields.io para gerar suas badges.
 
+<p align="center"> 
+  <a href="https://www.java.com">
+    <img src="https://img.shields.io/badge/Java-v1.8-orange" alt="Java">
+  </a>
+  <a href="https://www.mysql.com">
+      <img src="https://img.shields.io/badge/MySQL-v1.7-blue" alt="MySQL">
+  </a>
+  <a href="https://maven.apache.org/">
+      <img src="https://img.shields.io/badge/Maven-v2.8-blueviolet" alt="Maven">
+  </a>
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/progress-40%25-brightgreen.svg" alt="PRs Welcome">
+  </a>
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/contribuition-welcome-brightgreen.svg" alt="PRs Welcome">
+  </a>
+
+<a href="https://www.repostatus.org/#wip"><img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public." /></a>  
+</p>
+
 
 ## 📋 Tabela de Conteúdos
 - Status: Obrigatório
