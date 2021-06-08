@@ -89,6 +89,9 @@ Uma opção para seria listar as features como abaixo e ir checkando o que já f
 
 Nesta sessão é possível demonstrar como o projeto funciona de alguma forma, caso o projeto seja web e estiver hospedado em algum lugar pode se ter um link para o mesmo, caso seja mobile ou desktop pode se fazer uso de imagens ilustrando o funcionamento através de prints da tela.
 
+Ver o projeto rodando ou mesmo ter ideia de como ele funciona através de imagens e importante para ver o quanto o projeto esta maduro assim despertando interesse e mostrando o valor do mesmo.
+
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
