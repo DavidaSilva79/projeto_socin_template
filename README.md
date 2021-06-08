@@ -20,11 +20,7 @@ Esta sessão tem como conteúdo o Titulo do Projeto e uma breve descrição do m
 ## 🔗 Badges
 - Status: Opcional
 
-É uma questão de gosto pessoal e comunicação. As badges são úteis para indicar o status do projeto: você pode colocar a versão dele, link para licença, quantidade de issues, status da build, status dos testes.  Vale muito a pena colocar.
-
-As badges podem ficar no topo antes do título ou abaixo da descrição.
-
-Use o site shields.io para gerar suas badges.
+As Badges sãos brasões ou emblemas que contem um conteúdo e uma informação referente a este conteúdo, por exemplo abaixo as três primeiras badges são referentes a tecnologias de desenvolvimento onde o campo a esquerda indica a tecnologia em si ou seja o conteúdo e a direita  a versão da mesma que representa a informação referente ao conteúdo. 
 
 <p align="center"> 
   <a href="https://www.java.com">
@@ -44,6 +40,11 @@ Use o site shields.io para gerar suas badges.
   </a>
 </p>
 
+As badges são opcionais no entanto agregam valor ao readme podendo conter informações sobre o status da build, dos testes,  quantidade de contribuidores, commits entre outras informações.
+
+As Badges podem ficar no topo antes do título ou abaixo da descrição. 
+
+Use o site Shields.io para gerar suas badges.
 
 ## 📋 Tabela de Conteúdos
 - Status: Obrigatório
