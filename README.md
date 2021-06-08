@@ -73,7 +73,7 @@ Sessão que mostra o status do projeto se ele ainda se encontra em desenvolvimen
 
 - Status: Opcional
 
-Uma sessão opcional porem de grande ajuda e a das features, aqui é possível descrever quais funcionalidades do projeto estão prontas e quais estão em desenvolvimento ou não começaram a ser desenvolvidas, isso ajuda as pessoas a se situarem melhor sobre o projeto e seu desenvolvimento ate o momento.
+Uma sessão opcional porem de grande ajuda e a das features, aqui é possível descrever quais funcionalidades do projeto estão prontas e quais estão em desenvolvimento ou não começaram a ser desenvolvidas, isso ajuda as pessoas a se situarem melhor sobre o projeto e seu desenvolvimento até o momento.
 
 Uma opção para seria listar as features como abaixo e ir checkando o que já foi feito.
 
