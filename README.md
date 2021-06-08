@@ -47,13 +47,8 @@ As Badges podem ficar no topo antes do título ou abaixo da descrição.
 Use o site Shields.io para gerar suas badges.
 
 ## 📋 Tabela de Conteúdos
-- Status: Obrigatório
+Basicamente um índice das sessões do readme onde o individuo clica em um tópico do índice em seguida é direcionado para a sessão do topico.
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- Java
-- Spring
-- MySQL
 
 ## 🛠 Tecnologias
 
