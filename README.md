@@ -134,14 +134,28 @@ Esta sessão é dedicada as pessoas que contribuíram para o projeto, apesar de 
   </tr>
 </table>
 
-## 🛠 Tecnologias
+## 🛠 Autor
 
-As seguintes ferramentas foram usadas na construção do projeto:
+- Status: Obrigatório
 
-- Java
-- Spring
-- MySQL
+Aqui entra a parte de contatos do autor do projeto como, redes sociais para as se ter um bom networking, uma ideia interessante ser fazer do use do badges com os contatos nesta sessão, segue um exemplo abaixo.
+
+ ---
+
+<a href="https://www.socin.com.br/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48964967?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Socin</b></sub></a> <a href="https://www.socin.com.br/" title="Socin">🚀</a>
+
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT.
+- Status: Obrigatório
+
+Definir a licença do projeto é essencial se ele é de código aberto onde qualquer pessoa tem acesso ao código fonte e pode modificá-lo e redistribuí-lo livremente, ou se é de licença de código fechado onde não se pode ter acesso ao código fonte, e modificar redistribuir o mesmo é proibido perante a lei, e para utilizador o software deve se pagar por uma licença.
+
+Geralmente é um arquivo LICENSE é gerado para esta sessão.
+
+
+
+
