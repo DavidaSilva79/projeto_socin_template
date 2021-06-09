@@ -116,7 +116,7 @@ Aqui vai uma descrição do que o projeto precisa por exemplo um sistema operaci
 Aqui deve constar Instruções de como executar o projeto, caso o projeto não tiver um ambiente automatizado de execução e o processo for mais complexo um link para um manual mais completo é uma opção.
 
 
-## 🛠 Contribuição
+## 🤝 Contribuição
 
 - Status: Opcional
 
@@ -134,7 +134,7 @@ Esta sessão é dedicada as pessoas que contribuíram para o projeto, apesar de 
   </tr>
 </table>
 
-## 🛠 Autor
+## ✏️ Autor
 
 - Status: Obrigatório
 
