@@ -167,6 +167,8 @@ Aqui entra a parte de contatos do autor do projeto como, redes sociais para as s
 
 Aqui entra a parte de contatos do autor do projeto como, redes sociais para as se ter um bom networking, uma ideia interessante seria fazer do use das badges como contatos links para as redes sociais nesta sessão, segue um exemplo abaixo.
 
+---
+
 <a href="https://www.socin.com.br/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48964967?v=4" width="100px;" alt=""/>
  <br />
