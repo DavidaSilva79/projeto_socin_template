@@ -91,16 +91,17 @@ Ver o projeto rodando ou mesmo ter ideia de como ele funciona através de imagen
 
 ## 🛠 Tecnologias
 
+Sessão destinada as tecnologias ou ferramentas que o projeto faz uso para seu desenvolvimento, os tópicos servem como links para os sites de cada tecnologia, abaixo segue um exemplo.
+
 As seguintes ferramentas foram usadas na construção do projeto:
 
+- [TypeScriptttt](https://www.typescriptlang.org/)
 - Java
 - Spring
 - MySQL
 
 
 ## 🛠 Pré-requisitos e como rodar a aplicação/testes
-
-Pré-requisitos e como rodar a aplicação/testes
 
 - Status: Obrigatório
 
