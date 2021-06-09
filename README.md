@@ -147,7 +147,7 @@ Aqui entra a parte de contatos do autor do projeto como, redes sociais para as s
  <br />
  <sub><b>Socin Sistemas</b></sub></a> <a href="https://www.socin.com.br/" title="Socin">🚀</a>
  
- Feito com ❤️ por pela equipe de desenvolvimento Socin Sistemas!
+ Feito com ❤️  pela equipe de desenvolvimento Socin Sistemas!
 
 [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
@@ -159,8 +159,10 @@ Aqui entra a parte de contatos do autor do projeto como, redes sociais para as s
 
 Definir a licença do projeto é essencial se ele é de código aberto onde qualquer pessoa tem acesso ao código fonte e pode modificá-lo e redistribuí-lo livremente, ou se é de licença de código fechado onde não se pode ter acesso ao código fonte, e modificar redistribuir o mesmo é proibido perante a lei, e para utilizador o software deve se pagar por uma licença.
 
-Geralmente é um arquivo LICENSE é gerado para esta sessão.
+Geralmente é um arquivo LICENSE é gerado para esta sessão, abaixo segue um exemplo usando com a licença MIT de código aberto com link para o arquivo da lincença contido na raiz do projeto.
 
+
+Este projeto está sob a Licença MIT](./LICENSE) - veja o arquivo [LICENSE.MD](./LICENSE).para mais detalhes
 
 
 
