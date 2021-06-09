@@ -21,7 +21,7 @@ Esta sessão tem como conteúdo o Titulo do Projeto e uma breve descrição do m
 
 - Status: Obrigatório
 
-Basicamente um índice das sessões do readme onde o individuo clica em um tópico do índice em seguida é direcionado para a sessão do topico.
+Basicamente um índice das sessões do readme onde o individuo clica em um tópico do índice em seguida é redirecionado para a uma sessão correspondente ao mesmo.
 
 - [Badges](#-Badges)
 - [Status do Projeto](#-Status-do-Projeto)
@@ -38,7 +38,7 @@ Basicamente um índice das sessões do readme onde o individuo clica em um tópi
 
 - Status: Opcional
 
-As Badges sãos brasões ou emblemas que contem um conteúdo e uma informação referente a este conteúdo, por exemplo abaixo as três primeiras badges são referentes a tecnologias de desenvolvimento onde o campo a esquerda indica a tecnologia em si ou seja o conteúdo e a direita  a versão da mesma que representa a informação referente ao conteúdo. 
+As Badges são brasões ou emblemas que contem um conteúdo e uma informação referente a este conteúdo, por exemplo abaixo as três primeiras badges são referentes a tecnologias de desenvolvimento onde o campo a esquerda indica a tecnologia em si ou seja o conteúdo, e a direita  a versão da mesma que representa a informação referente ao conteúdo. 
 
 <p align="center"> 
   <a href="https://www.java.com">
@@ -60,7 +60,7 @@ As Badges sãos brasões ou emblemas que contem um conteúdo e uma informação 
 
 As badges são opcionais no entanto agregam valor ao readme podendo conter informações sobre o status da build, dos testes,  quantidade de contribuidores, commits entre outras informações.
 
-As Badges podem ficar no topo antes do título ou abaixo da descrição. 
+As Badges podem ficar no topo antes do título ou abaixo da descrição entre outros locais do readme. 
 
 Use o site Shields.io para gerar suas badges.
 
@@ -79,7 +79,7 @@ Sessão que mostra o status do projeto se ele ainda se encontra em desenvolvimen
 
 Uma sessão opcional porem de grande ajuda e a das features, aqui é possível descrever quais funcionalidades do projeto estão prontas e quais estão em desenvolvimento ou não começaram a ser desenvolvidas, isso ajuda as pessoas a se situarem melhor sobre o projeto e seu desenvolvimento até o momento.
 
-Uma opção para seria listar as features como abaixo e ir checkando o que já foi feito.
+Uma opção seria listar as features como abaixo e ir checkando o que já foi feito.
 
 - [x] Cadastro de usuário
 - [x] Cadastro de cliente
@@ -142,7 +142,7 @@ Esta sessão é dedicada as pessoas que contribuíram para o projeto, apesar de 
 
 - Status: Obrigatório
 
-Aqui entra a parte de contatos do autor do projeto como, redes sociais para as se ter um bom networking, uma ideia interessante ser fazer do use do badges como contatos links para as redes sociais nesta sessão, segue um exemplo abaixo.
+Aqui entra a parte de contatos do autor do projeto como, redes sociais para as se ter um bom networking, uma ideia interessante seria fazer do use das badges como contatos links para as redes sociais nesta sessão, segue um exemplo abaixo.
 
  ---
 
