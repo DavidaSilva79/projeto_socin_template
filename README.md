@@ -149,7 +149,7 @@ Aqui entra a parte de contatos do autor do projeto como, redes sociais para as s
  
  Feito com ❤️  pela equipe de desenvolvimento Socin Sistemas!
 
-<a href="https://www.facebook.com/groups/rnfirebase"><img src="https://img.shields.io/badge/Follow%20on%20Facebook-4172B8?logo=facebook&style=flat-square&logoColor=fff" alt="Follow on Facebook"></a>
+<a href="https://www.facebook.com/socinsistemas"><img src="https://img.shields.io/badge/Follow%20on%20Facebook-4172B8?logo=facebook&style=flat-square&logoColor=fff" alt="Follow on Facebook"></a>
 
 
 ## 📝 Licença
