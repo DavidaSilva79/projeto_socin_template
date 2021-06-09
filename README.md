@@ -64,6 +64,8 @@ As Badges podem ficar no topo antes do título ou abaixo da descrição entre ou
 
 Use o site Shields.io para gerar suas badges.
 
+
+
 ## ✅ Status do Projeto
 
 - Status: Obrigatório
@@ -71,6 +73,7 @@ Use o site Shields.io para gerar suas badges.
 Sessão que mostra o status do projeto se ele ainda se encontra em desenvolvimento ou se já foi concluído.
 
 🚧 Projeto em Desenvolvimento... 🚧
+
 
 
 ## 💫 Features
@@ -138,13 +141,13 @@ Esta sessão é dedicada as pessoas que contribuíram para o projeto, apesar de 
   </tr>
 </table>
 
-## Autor
+## ✏️Autor
 
 - Status: Obrigatório
 
 Aqui entra a parte de contatos do autor do projeto como, redes sociais para as se ter um bom networking, uma ideia interessante seria fazer do use das badges como contatos links para as redes sociais nesta sessão, segue um exemplo abaixo.
 
- ---
+ 
 
 <a href="https://www.socin.com.br/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48964967?v=4" width="100px;" alt=""/>
