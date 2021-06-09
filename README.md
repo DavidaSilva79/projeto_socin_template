@@ -91,6 +91,8 @@ Ver o projeto rodando ou mesmo ter ideia de como ele funciona através de imagen
 
 ## 🛠 Tecnologias
 
+- Status: Obrigatório
+
 Sessão destinada as tecnologias ou ferramentas que o projeto faz uso para seu desenvolvimento, os tópicos servem como links para os sites de cada tecnologia, abaixo segue um exemplo.
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -99,13 +101,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Spring](https://spring.io)
 - [MySQL](https://www.mysql.com)
 
-## 🛠 Pré-requisitos e como rodar a aplicação/testes
+## 🎲 Pré-requisitos e como rodar a aplicação/testes
 
 - Status: Obrigatório
 
 Esta sessão é dedicada a mostrar como executar o projeto e seus pré-requisitos e caso tenha testes como executar os mesmos.
 
-### Pré-requisitos
+###  Pré-requisitos
 
 Aqui vai uma descrição do que o projeto precisa por exemplo um sistema operacional especifico e quais tecnologias e versões que são necessárias, a IDE recomendada entre outros.
 
@@ -114,28 +116,12 @@ Aqui vai uma descrição do que o projeto precisa por exemplo um sistema operaci
 Aqui deve constar Instruções de como executar o projeto, caso o projeto não tiver um ambiente automatizado de execução e o processo for mais complexo um link para um manual mais completo é uma opção.
 
 
+## 🛠 Contribuição
 
-## 🛠 Tecnologias
+- Status: Opcional
 
-As seguintes ferramentas foram usadas na construção do projeto:
+Uma maneira de evidenciar e reconhecer as pessoas que contribuíram para o projeto e ter uma sessão que consta uma lista de contribuidores.
 
-- Java
-- Spring
-- MySQL
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- Java
-- Spring
-- MySQL
-
-
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
 
 <table>
   <tr>
@@ -154,30 +140,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Java
 - Spring
 - MySQL
-
-
-## 🚀 Como executar o projeto
-
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-Java JDK 1.8, MySQL 5.7, FTP e SSH
-Além disto é bom ter um editor para trabalhar com o código como Eclipse
-
-### 🎲 Rodando o Projeto
-
-🚧 Em construção... 🚧
-
-## 📦 Como liberar um pacote do projeto
-
-- Para liberar pacotes para o desenvolvimento do concentrador basta buildar o arquivo Econect-Concentrador/ant/build-econect.conc.xml
-- os pacotes .jar são gerados no diretório /usr/socin/econect/conc/lib
-
-- Para liberar pacotes de instalação basta buildar o arquivo Econect-Build/ant/build.xml
-- os pacotes .jar são gerados no diretório /usr/socin/econect/build/dist/V_RLS_VERSAO/Econect-Concentrador/instalador
-
-
-
 
 ## 📝 Licença
 
