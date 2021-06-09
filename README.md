@@ -95,11 +95,9 @@ Sessão destinada as tecnologias ou ferramentas que o projeto faz uso para seu d
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [TypeScriptttt](https://www.typescriptlang.org/)
-- Java
-- Spring
-- MySQL
-
+- [Java](https://www.java.com)
+- [Spring](https://spring.io)
+- [MySQL](https://www.mysql.com)
 
 ## 🛠 Pré-requisitos e como rodar a aplicação/testes
 
