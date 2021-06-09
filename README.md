@@ -149,7 +149,8 @@ Aqui entra a parte de contatos do autor do projeto como, redes sociais para as s
  
  Feito com ❤️  pela equipe de desenvolvimento Socin Sistemas!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
 
@@ -162,7 +163,7 @@ Definir a licença do projeto é essencial se ele é de código aberto onde qual
 Geralmente é um arquivo LICENSE é gerado para esta sessão, abaixo segue um exemplo usando com a licença MIT de código aberto com link para o arquivo da lincença contido na raiz do projeto.
 
 
-Este projeto está sob a Licença MIT](./LICENSE) - veja o arquivo [LICENSE.MD](./LICENSE).para mais detalhes
+Este projeto está sob a [Licença MIT](./LICENSE) - veja o arquivo [LICENSE](./LICENSE) para mais detalhes
 
 
 
