@@ -29,7 +29,7 @@ Basicamente um índice das sessões do readme onde o individuo clica em um tópi
 - [Demonstração da aplicação](#-Demonstração-da-aplicação)
 - [Tecnologias](#-Tecnologias)
 - [Contribuição](#-Contribuição)
-- [Davi](#-Davi)
+- [Autor](#-Autor)
 - [Licença](#-Licença)
 
 
@@ -144,7 +144,7 @@ Esta sessão é dedicada as pessoas que contribuíram para o projeto, apesar de 
 </table>
 
 
-## 📝 Davi
+## 😃 Autor
 
 - Status: Obrigatório
 
