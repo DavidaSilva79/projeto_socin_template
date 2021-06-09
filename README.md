@@ -144,7 +144,7 @@ Esta sessão é dedicada as pessoas que contribuíram para o projeto, apesar de 
 </table>
 
 
-## ✏️ Davi
+## 📝 Davi
 
 - Status: Obrigatório
 
