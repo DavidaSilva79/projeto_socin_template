@@ -120,7 +120,8 @@ Aqui deve constar Instruções de como executar o projeto, caso o projeto não t
 
 - Status: Opcional
 
-Uma maneira de evidenciar e reconhecer as pessoas que contribuíram para o projeto e ter uma sessão que consta uma lista de contribuidores.
+Esta sessão é dedicada a aqueles que contribuíram para o projeto, apesar de ser opcional reconhecer o trabalho feito pelas pessoas é muito importante, uma maneira de evidenciar e reconhecer a contribuição dos que participaram do projeto é ter uma sessão que consta uma lista de contribuidores.
+
 
 
 <table>
