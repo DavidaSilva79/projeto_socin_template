@@ -89,12 +89,48 @@ Nesta sessão é possível demonstrar como o projeto funciona de alguma forma, c
 
 Ver o projeto rodando ou mesmo ter ideia de como ele funciona através de imagens é importante para ver o quanto o projeto esta maduro assim despertando interesse e mostrando o valor do mesmo.
 
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Java
+- Spring
+- MySQL
+
 
 ## 🛠 Pré-requisitos e como rodar a aplicação/testes
 
 Pré-requisitos e como rodar a aplicação/testes
 
 - Status: Obrigatório
+
+Esta sessão é dedicada a mostrar como executar o projeto e seus pré-requisitos e caso tenha testes como executar os mesmos.
+
+### Pré-requisitos
+
+Aqui vai uma descrição do que o projeto precisa por exemplo um sistema operacional especifico e quais tecnologias e versões que são necessárias, a IDE recomendada entre outros.
+
+### 🚀 Como executar o projeto
+
+Aqui deve constar Instruções de como executar o projeto, caso o projeto não tiver um ambiente automatizado de execução e o processo for mais complexo um link para um manual mais completo é uma opção.
+
+
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Java
+- Spring
+- MySQL
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Java
+- Spring
+- MySQL
 
 
 
