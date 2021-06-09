@@ -90,6 +90,28 @@ Nesta sessão é possível demonstrar como o projeto funciona de alguma forma, c
 Ver o projeto rodando ou mesmo ter ideia de como ele funciona através de imagens é importante para ver o quanto o projeto esta maduro assim despertando interesse e mostrando o valor do mesmo.
 
 
+## 🛠 Pré-requisitos e como rodar a aplicação/testes
+
+Pré-requisitos e como rodar a aplicação/testes
+
+- Status: Obrigatório
+
+
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+<table>
+  <tr>
+   <td align="center"><a href="http://www.socin.com.br"><img src="https://avatars.githubusercontent.com/u/45698040?v=4" width="100px;" alt=""/><br /><sub><b>Paulo Henrique da Mata</b></sub></a><br /><a href="https://github.com/socin-econect/econect/pulls?q=is%3Apr+reviewed-by%3Apmata" title="Reviewed Pull Requests">👀</a></td>
+<td align="center"><a href="http://www.socin.com.br"><img src="https://avatars.githubusercontent.com/u/60893574?v=4" width="100px;" alt=""/><br /><sub><b>Paulo Henrique da Mata</b></sub></a><br /><a href="https://github.com/socin-econect/econect/pulls?q=is%3Apr+reviewed-by%3Apmata" title="Reviewed Pull Requests">👀</a></td>       
+    <td align="center"><a href="http://www.socin.com.br"><img src="https://avatars.githubusercontent.com/u/928861?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paulo Henrique da Mata</b></sub></a><br /><a href="https://github.com/socin-econect/econect/pulls?q=is%3Apr+reviewed-by%3Apmata" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/lbassoli"><img src="https://avatars.githubusercontent.com/u/19332278?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lbassoli</b></sub></a><br /><a href="https://github.com/socin-econect/econect/pulls?q=is%3Apr+reviewed-by%3Albassoli" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/socin-econect/econect/commits?author=lbassoli" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/pedrobianco"><img src="https://avatars.githubusercontent.com/u/27033867?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Bianco</b></sub></a><br /><a href="https://github.com/socin-econect/econect/commits?author=pedrobianco" title="Code">💻</a></td>
+  </tr>
+</table>
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
