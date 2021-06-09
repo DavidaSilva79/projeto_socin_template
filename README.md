@@ -174,5 +174,16 @@ Geralmente é um arquivo LICENSE é gerado para esta sessão, abaixo segue um ex
 
 Este projeto está sob a [Licença MIT](./LICENSE) - veja o arquivo [LICENSE](./LICENSE) para mais detalhes
 
+## 📝 Davi
+
+- Status: Obrigatório
+
+Definir a licença do projeto é essencial se ele é de código aberto, onde qualquer pessoa tem acesso ao código fonte e pode modificá-lo e redistribuí-lo livremente, ou se é de licença de código fechado onde não se pode ter acesso ao código fonte, e modificar ou redistribuir o mesmo é proibido perante a lei, e para utilizador o software deve se pagar por uma licença.
+
+Geralmente é um arquivo LICENSE é gerado para esta sessão, abaixo segue um exemplo usando com a licença MIT de código aberto com link para o arquivo da lincença contido na raiz do projeto.
+
+
+Este projeto está sob a [Licença MIT](./LICENSE) - veja o arquivo [LICENSE](./LICENSE) para mais detalhes
+
 
 
