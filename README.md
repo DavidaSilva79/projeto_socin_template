@@ -143,23 +143,6 @@ Esta sessão é dedicada as pessoas que contribuíram para o projeto, apesar de 
   </tr>
 </table>
 
-##  ✏️  Autor
-
-- Status: Obrigatório
-
-Aqui entra a parte de contatos do autor do projeto como, redes sociais para as se ter um bom networking, uma ideia interessante seria fazer do use das badges como contatos links para as redes sociais nesta sessão, segue um exemplo abaixo.
-
-<a href="https://www.socin.com.br/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48964967?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Socin Sistemas</b></sub></a> <a href="https://www.socin.com.br/" title="Socin">🚀</a>
- 
- Feito com ❤️  pela equipe de desenvolvimento Socin Sistemas!
-
-<a href="https://www.facebook.com/socinsistemas"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/company/socinsistemas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://www.instagram.com/socinsistemas/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
 
 ## 📝 Davi
 
