@@ -70,8 +70,11 @@ Use o site Shields.io para gerar suas badges.
 ## 💫 Features
 
 - Status: Opcional
-- 
-Uma sessão opcional porem de grande ajuda e a das features, aqui é possível apresentar as funcionalidades do produto, no caso como o produto usa uma ferramenta de gestão e controle de features é interessante ter um link da mesma nesta sessão, isso ajuda as pessoas a se situarem melhor sobre o projeto e seu desenvolvimento ate o momento.
+
+Uma sessão opcional porem de grande ajuda e a das features, aqui é possível apresentar as funcionalidades do produto, no caso como o produto usa uma ferramenta de gestão e controle de features é interessante ter um link da mesma nesta sessão.
+
+Aqui o intuito e ajudas as pessoas a se situarem melhor sobre o projeto e seu desenvolvimento até o momento.
+
 
 ## 🖥 Demonstração da aplicação
 
