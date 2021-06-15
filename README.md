@@ -44,16 +44,19 @@ As Badges sãos brasões ou emblemas que representam algo junto com uma informa�
 
 <p align="center"> 
   <a href="https://www.java.com">
-    <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
   </a>
- <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/DJANGO-3.1.6-ff1709?style=for-the-badge&logo=django&logoColor=white&color=43853D&labelColor=43853D" alt="PRs Welcome">
+ <a href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/DJANGO-3.1.6-ff1709?style=for-the-badge&logo=django&logoColor=white&color=43853D&labelColor=43853D" alt="django>
   </a>
+   <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git_2.32-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git>
+   </a>
  <a href="https://www.mysql.com">
-    <img src="https://img.shields.io/badge/MySQL-1.7-316192?style=for-the-badge&logo=mysql&logoColor=white&color=316192&labelColor=316192" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/MySQL-1.7-316192?style=for-the-badge&logo=mysql&logoColor=white&color=316192&labelColor=316192" alt="mysql">
   </a>
- <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/sublime_text_4.2.2-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="PRs Welcome">
+ <a href="https://www.sublimetext.com/">
+    <img src="https://img.shields.io/badge/sublime_text_4.2.2-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="PRs sublime">
   </a>
  
  </p>
