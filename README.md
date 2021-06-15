@@ -44,13 +44,13 @@ As Badges sãos brasões ou emblemas que representam algo junto com uma informa�
 
 <p align="center"> 
   <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/JAVA-1.8-ff1709?style=for-the-badge&logo=java&logoColor=white&color=gray&labelColor=ED8B00" alt="PRs Welcome">
   </a>
  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/DJANGO-3.1.6-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="PRs Welcome">
   </a>
  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/MySQL-1.7-316192?style=for-the-badge&logo=mysql&logoColor=white&color=gray&labelColor=316192" alt="PRs Welcome">
   </a>
  <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="PRs Welcome">
