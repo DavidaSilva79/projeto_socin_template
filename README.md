@@ -58,7 +58,9 @@ As Badges são brasões ou emblemas que contem um conteúdo e uma informação r
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/contribuition-welcome-brightgreen.svg" alt="PRs Welcome">
   </a>
-</p>
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="PRs Welcome">
+  </a>
 
 As badges são opcionais no entanto agregam valor ao readme podendo conter informações sobre o status da build, dos testes,  quantidade de contribuidores, commits entre outras informações.
 
