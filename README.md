@@ -3,7 +3,8 @@
 
 - Status: Opcional
 
-Nesta sessão é possível adicionar um logo ou um banner do projeto no README.md , opcionalmente é possível substituir o titulo do projeto por esta sessão, no entanto a descrição é imprescindível para o bom entendimento do conteúdo do projeto.
+Nesta sessão é possível adicionar um logo ou um banner do projeto para dar uma melhor aparência ao Readme.
+
 
 
  <p align="center">
