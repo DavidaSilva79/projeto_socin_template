@@ -47,13 +47,13 @@ As Badges sãos brasões ou emblemas que representam algo junto com uma informa�
     <img src="https://img.shields.io/badge/JAVA-1.8-ff1709?style=for-the-badge&logo=java&logoColor=white&color=gray&labelColor=ED8B00" alt="PRs Welcome">
   </a>
  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/DJANGO-3.1.6-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/DJANGO-3.1.6-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=ff1709" alt="PRs Welcome">
   </a>
  <a href="https://www.mysql.com">
-    <img src="https://img.shields.io/badge/MySQL-1.7-316192?style=for-the-badge&logo=mysql&logoColor=white&color=gray&labelColor=316192" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/MySQL-1.7-316192?style=for-the-badge&logo=mysql&logoColor=white&color=316192&labelColor=316192" alt="PRs Welcome">
   </a>
  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/DJANGO-3.1.6-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/sublime_text_4.2.2-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="PRs Welcome">
   </a>
  
  </p>
