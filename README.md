@@ -47,7 +47,7 @@ As Badges sãos brasões ou emblemas que representam algo junto com uma informa�
     <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="PRs Welcome">
   </a>
  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/DJANGO-3.1.6-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=ff1709" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/DJANGO-3.1.6-ff1709?style=for-the-badge&logo=django&logoColor=white&color=43853D&labelColor=43853D" alt="PRs Welcome">
   </a>
  <a href="https://www.mysql.com">
     <img src="https://img.shields.io/badge/MySQL-1.7-316192?style=for-the-badge&logo=mysql&logoColor=white&color=316192&labelColor=316192" alt="PRs Welcome">
