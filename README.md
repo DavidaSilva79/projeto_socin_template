@@ -95,9 +95,9 @@ Sessão destinada as tecnologias ou ferramentas que o projeto faz uso para seu d
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Java](https://www.java.com)
-- [Spring](https://spring.io)
-- [MySQL](https://www.mysql.com)
+- [Java v1.8](https://www.java.com)
+- [Spring Boot v3.2](https://spring.io)
+- [MySQL v1.7](https://www.mysql.com)
 
 ## 🎲 Pré-requisitos e como rodar a aplicação/testes
 
@@ -154,7 +154,7 @@ Aqui entra a parte de contatos do autor do projeto como, redes sociais para as s
  <a href="https://www.facebook.com/socinsistemas"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.linkedin.com/company/socinsistemas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/socinsistemas/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.instagram.com/socinsistemas/?hl=pt-br"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Instagram"></a>
+
 
 
 ## 📝 Licença
