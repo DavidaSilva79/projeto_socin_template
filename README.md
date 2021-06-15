@@ -24,7 +24,6 @@ Esta sessão tem como conteúdo o Titulo do Projeto e uma breve descrição do m
 Basicamente um índice das sessões do readme onde o individuo clica em um tópico do índice em seguida é redirecionado para a uma sessão correspondente ao mesmo.
 
 - [Badges](#-Badges)
-- [Status do Projeto](#-Status-do-Projeto)
 - [Features](#-Features)
 - [Demonstração da aplicação](#-Demonstração-da-aplicação)
 - [Tecnologias](#-Tecnologias)
@@ -66,18 +65,6 @@ As badges são opcionais no entanto agregam valor ao readme podendo conter infor
 As Badges podem ficar no topo antes do título ou abaixo da descrição entre outros locais do readme. 
 
 Use o site Shields.io para gerar suas badges.
-
-
-
-## ✅ Status do Projeto
-
-- Status: Obrigatório
-
-Sessão que mostra o status do projeto se ele ainda se encontra em desenvolvimento ou se já foi concluído.
-
-🚧 Projeto em Desenvolvimento... 🚧
-
-
 
 ## 💫 Features
 
