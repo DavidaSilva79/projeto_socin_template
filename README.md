@@ -3,7 +3,7 @@
 
 - Status: Opcional
 
-Nesta sessão é possível adicionar um logo ou um banner do projeto para dar uma melhor aparência ao Readme.
+Nesta sessão é possível adicionar um logo ou um banner do produto para dar uma melhor aparência ao Readme.
 
 
 
@@ -16,7 +16,7 @@ Nesta sessão é possível adicionar um logo ou um banner do projeto para dar um
 ## 💻 Título e Descrição
 - Status: Obrigatório
 
-Esta sessão tem como conteúdo o Titulo do Projeto e uma breve descrição do mesmo.
+Esta sessão tem como conteúdo o Titulo do Produto e uma breve descrição do mesmo.
 
 ## Tabela de Conteúdos
 
@@ -83,15 +83,15 @@ Uma opção seria listar as features como abaixo e ir checkando o que já foi fe
 
 - Status: Opcional
 
-Nesta sessão é possível demonstrar como o projeto funciona de alguma forma, caso o projeto seja web e estiver hospedado em algum lugar pode se ter um link para o mesmo, caso seja mobile ou desktop pode se fazer uso de imagens ilustrando o funcionamento através de prints da tela.
+Nesta sessão é possível demonstrar como a aplicação funciona de alguma forma, caso o projeto seja web e estiver hospedado em algum lugar pode se ter um link para o mesmo, caso seja mobile ou desktop pode se fazer uso de imagens ilustrando o funcionamento através de prints da tela.
 
-Ver o projeto rodando ou mesmo ter ideia de como ele funciona através de imagens é importante para ver o quanto o projeto esta maduro assim despertando interesse e mostrando o valor do mesmo.
+Ver a aplicação rodando ou mesmo ter ideia de como ele funciona através de imagens é importante para ver o quanto o projeto esta maduro assim despertando interesse e mostrando o valor do mesmo.
 
 ## 🛠 Tecnologias
 
 - Status: Obrigatório
 
-Sessão destinada as tecnologias ou ferramentas que o projeto faz uso para seu desenvolvimento, os tópicos servem como links para os sites de cada tecnologia, abaixo segue um exemplo.
+Sessão destinada as tecnologias ou ferramentas que a aplicação faz uso para seu desenvolvimento, os tópicos servem como links para os sites de cada tecnologia, abaixo segue um exemplo.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -103,15 +103,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Status: Obrigatório
 
-Esta sessão é dedicada a mostrar como executar o projeto e seus pré-requisitos e caso tenha testes como executar os mesmos.
+Esta sessão é dedicada a mostrar como executar a aplicação e seus pré-requisitos e caso tenha testes como executar os mesmos.
 
 ###  Pré-requisitos
 
 Aqui vai uma descrição do que o projeto precisa por exemplo um sistema operacional especifico e quais tecnologias e versões que são necessárias, a IDE recomendada entre outros.
 
-### 🚀 Como executar o projeto
+### 🚀 Como executar a aplicação
 
-Aqui deve constar Instruções de como executar o projeto, caso o projeto não tiver um ambiente automatizado de execução e o processo for mais complexo um link para um manual mais completo é uma opção.
+Aqui deve constar Instruções de como executar a aplicação, caso não tiver um ambiente automatizado de execução e o processo for mais complexo um link para um manual mais completo é uma opção.
 
 
 ## 🤝 Contribuição
