@@ -61,8 +61,6 @@ As Badges sãos brasões ou emblemas que representam algo junto com uma informa�
  
  </p>
 
-As badges são opcionais no entanto agregam valor ao readme podendo conter informações sobre o status da build, dos testes,  quantidade de contribuidores, commits entre outras informações.
-
 As Badges podem ficar no topo antes do título ou abaixo da descrição entre outros locais do readme. 
 
 Use o site Shields.io para gerar suas badges.
