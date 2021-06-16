@@ -74,19 +74,19 @@ Uma sessão opcional porem de grande ajuda e a das features, aqui é possível a
 Aqui o intuito e ajudar as pessoas se situarem melhor sobre o projeto e seu desenvolvimento até o momento.
 
 
-## 🖥 Demonstração da aplicação
+## 🖥 Demonstração da produto
 
 - Status: Opcional
 
-Nesta sessão é possível demonstrar como a aplicação funciona de alguma forma, caso o projeto seja web e estiver hospedado em algum lugar pode se ter um link para o mesmo, caso seja mobile ou desktop pode se fazer uso de imagens ilustrando o funcionamento através de prints da tela.
+Nesta sessão é possível demonstrar como o produto funciona de alguma forma, caso seja web e estiver hospedado em algum lugar pode se ter um link para o mesmo, caso seja mobile ou desktop pode se fazer uso de imagens ilustrando o funcionamento através de prints da tela.
 
-Ver a aplicação rodando ou mesmo ter ideia de como ele funciona através de imagens é importante para ver o quanto o projeto esta maduro assim despertando interesse e mostrando o valor do mesmo.
+Ver produto rodando ou mesmo ter ideia de como ele funciona através de imagens é importante para ver o quanto o produto esta maduro assim despertando interesse e mostrando o valor do mesmo.
 
 ## 🛠 Tecnologias
 
 - Status: Obrigatório
 
-Sessão destinada as tecnologias ou ferramentas que a aplicação faz uso para seu desenvolvimento, os tópicos servem como links para os sites de cada tecnologia, abaixo segue um exemplo.
+Sessão destinada as tecnologias ou ferramentas que o produto faz uso para seu constante desenvolvimento, os tópicos servem como links para os sites de cada tecnologia, abaixo segue um exemplo.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
