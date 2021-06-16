@@ -135,7 +135,7 @@ Esta sessão é dedicada as pessoas que contribuíram para o projeto, apesar de 
 
 - Status: Obrigatório
 
-Aqui entra a parte de contatos do autor do produto como, redes sociais para as se ter um bom networking, uma ideia interessante seria fazer do use das badges como contatos links para as redes sociais nesta sessão, segue um exemplo abaixo.
+Aqui entra a parte de contatos do autor do produto como, redes sociais para as se ter um bom networking, uma ideia interessante seria fazer do use das badges como contatos ou links para as redes sociais nesta sessão, segue um exemplo abaixo.
 
 ---
 
