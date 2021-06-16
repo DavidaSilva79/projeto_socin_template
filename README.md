@@ -156,9 +156,9 @@ Aqui entra a parte de contatos do autor do produto como, redes sociais para as s
 
 - Status: Obrigatório
 
-Definir a licença do produto é essencial se ele é de código aberto, onde qualquer pessoa tem acesso ao código fonte e pode modificá-lo e redistribuí-lo livremente, ou se é de licença de código fechado onde não se pode ter acesso ao código fonte, e modificar ou redistribuir o mesmo é proibido perante a lei, e para utilizador o software deve se pagar por uma licença.
+Definir a licença do produto é essencial, alguns dos tipos principais de licença são a de código aberto, onde qualquer pessoa tem acesso ao código fonte e pode modificá-lo e redistribuí-lo livremente, e a de licença de código fechado onde não se pode ter acesso ao código fonte, e modificar ou redistribuir o mesmo é proibido perante a lei, e para utilizador o software deve se pagar por uma licença.
 
-Geralmente é um arquivo LICENSE é gerado para esta sessão, abaixo segue um exemplo usando com a licença MIT de código aberto com link para o arquivo da lincença contido na raiz do projeto.
+Geralmente um arquivo LICENSE é gerado para esta sessão, abaixo segue um exemplo usando com a licença MIT de código aberto com link para o arquivo da lincença contido na raiz do projeto.
 
 
 Este projeto está sob a [Licença MIT](./LICENSE) - veja o arquivo [LICENSE](./LICENSE) para mais detalhes
