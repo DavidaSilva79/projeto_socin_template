@@ -74,7 +74,7 @@ Uma sessão opcional porem de grande ajuda e a das features, aqui é possível a
 Aqui o intuito e ajudar as pessoas se situarem melhor sobre o projeto e seu desenvolvimento até o momento.
 
 
-## 🖥 Demonstração da produto
+## 🖥 Demonstração do produto
 
 - Status: Opcional
 
