@@ -47,10 +47,10 @@ As Badges sãos brasões ou emblemas que representam algo junto com uma informa�
     <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
   </a>
  <a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/DJANGO-3.1.6-ff1709?style=for-the-badge&logo=django&logoColor=white&color=43853D&labelColor=43853D" alt="django>
+    <img src="https://img.shields.io/badge/DJANGO-3.1.6-ff1709?style=for-the-badge&logo=django&logoColor=white&color=43853D&labelColor=43853D" alt="django">
   </a>
    <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git_2.32-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git>
+    <img src="https://img.shields.io/badge/Git_2.32-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
    </a>
  <a href="https://www.mysql.com">
     <img src="https://img.shields.io/badge/MySQL-1.7-316192?style=for-the-badge&logo=mysql&logoColor=white&color=316192&labelColor=316192" alt="mysql">
@@ -140,7 +140,7 @@ Aqui entra a parte de contatos do autor do produto como, redes sociais para as s
 ---
 
 <a href="https://www.socin.com.br/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48964967?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48964967?v=4" width="100px;" alt="socin"/>
  <br />
  <sub><b>Socin Sistemas</b></sub></a> <a href="https://www.socin.com.br/" title="Socin">🚀</a>
  
