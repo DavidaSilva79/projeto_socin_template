@@ -16,7 +16,7 @@ Nesta sessão é possível adicionar um logo ou um banner do produto para dar um
 ## 💻 Título e Descrição
 - Status: Obrigatório
 
-Esta sessão tem como conteúdo o Titulo do Produto e uma breve descrição do mesmo.
+Esta sessão tem como conteúdo o titulo do produto e uma breve descrição do mesmo.
 
 ## Tabela de Conteúdos
 
